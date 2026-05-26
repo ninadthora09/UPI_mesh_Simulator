@@ -127,7 +127,7 @@ export default function App() {
   }
 
   useEffect(() => {
-    refresh();
+    // refresh();
     const interval = setInterval(refresh, 5000);
     return () => clearInterval(interval);
   }, []);

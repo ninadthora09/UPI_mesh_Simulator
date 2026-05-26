@@ -11,7 +11,7 @@ const nodeConfig = {
 
 export default function LiveMeshNetwork({ activePacket, setSelectedPacket }) {
   const sender = activePacket?.sender?.toLowerCase();
-  const receiver = activePacket?.receiver?.toLowerCase();
+  // const receiver = activePacket?.receiver?.toLowerCase();
   const isGossiping = activePacket?.moving;
 
   // Dynamic starting position
