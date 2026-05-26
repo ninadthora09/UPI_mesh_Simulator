@@ -1,5 +1,7 @@
 # UPI Offline Mesh Simulator — Production-Grade MERN Blueprint
 
+🚀 Live Demo: https:https://upi-mesh-simulator.vercel.app/
+
 A complete, corrected, and improved blueprint for building an Offline UPI Mesh Payment Simulator using the MERN stack.
 
 This version fixes:
